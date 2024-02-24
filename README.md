@@ -1,7 +1,7 @@
 # Data-Science-Portfolio-
 These are the data science portfolio should address the questions with tangible evidence in the form of functional artificial intelligence and machine learning projects.
 # Evelyn
-*Currently working as a Data Governance Analyst to depploy and enforce policies and business processes that ensure accurate and high data quality throughout its lifecycle. Besides being adept in software development, data analysis, machine learning, natural language programming and applications.
+*Currently working as a Data Governance Analyst to deploy and enforce policies and business processes that ensure accurate and high data quality throughout its lifecycle. Besides being adept in software development, data analysis, machine learning, natural language programming and applications.
 
   
 
